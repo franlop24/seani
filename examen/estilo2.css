@@ -1,0 +1,121 @@
+.iniFin{
+	width: 100%;
+	
+	background-color: #088149;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 1.5em;
+	padding: 5px;
+}
+#titulo{
+	width: 100%;
+	height: 60px;
+	color: #088149;
+}
+.barra	{
+	width: 100%;
+	height: 5px;
+	background-color: #F66800;
+}
+
+body {
+	color: #F66800;
+	color: white;
+}
+
+#tit{
+	width: 50%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	font-size: 35px;
+	//border: 1px solid black;
+}
+
+#conTime {
+	width: 45%;
+	height: 100%;
+	float: right;
+	//border: 1px solid black;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#conTime li{
+	list-style: none;
+}
+
+#pregunta	{
+	width: 100%;
+	height: 600px;
+	//border: 1px solid black;
+	overflow: scroll;
+	color: #088149;
+}
+
+.navegacion {
+	margin-top: 5px;
+	width: 100%;
+	height: 40px;
+	background-color: #DDDDDD;
+}
+
+.def {
+	width: 30px;
+	height: 30px;
+	padding: 1px;
+	margin:5px 0 5px 2px;
+	float: left;
+	background-color: 
+}
+
+#contNav {
+	width: 3%;
+	margin-left: 5px;
+	float: left;
+	height: 100%;	
+}
+
+
+.bun{
+	//width: 10%;
+	//float: left;
+	//height: 95%;	
+	//background-color: #FFD789;
+	//font-size: .8em;
+	//border: 1px solid green;
+}
+
+.bun2 {
+	background-color: #FF6900;
+	width:100px; 
+	border-radius:5px; 
+	padding:10px;
+	color:white; 
+	font-weight: bold;
+}
+
+#enviar {
+	width: 5%;
+	padding-top: 4px;
+	padding-left: 40px;
+	text-align: right;
+	float: left;
+	height: 100%;
+}
+.actibot {
+	background-color: #FF9B51;
+	color: white;
+	font-weight: bold;
+}
+.contestado {
+	background-color: #088149;	
+	color: white;
+	font-weight: bold;	
+}
+
+.texto	{
+	width: 100px;
+	display: inline;
+}
+

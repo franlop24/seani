@@ -1,0 +1,14 @@
+[21-Jun-2014 21:53:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/uttlaxca/public_html/seani/Conectar.php on line 16
+[23-Jun-2014 10:42:48 Mexico/General] PHP Fatal error:  Call to undefined method Seani::Nregistro() in /home/uttlaxca/public_html/seani/insert/registro.php on line 21
+[23-Jun-2014 10:43:39 Mexico/General] PHP Fatal error:  Call to undefined method Seani::Nregistro() in /home/uttlaxca/public_html/seani/insert/registro.php on line 21
+[23-Jun-2014 10:46:13 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/uttlaxca/public_html/seani/mvc/modelo.php on line 1871
+[23-Jun-2014 10:47:01 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[23-Jun-2014 11:16:16 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[23-Jun-2014 14:34:54 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[24-Jun-2014 16:06:37 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[24-Jun-2014 18:09:17 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[24-Jun-2014 18:26:12 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[24-Jun-2014 18:32:58 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[24-Jun-2014 18:34:28 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[24-Jun-2014 18:36:56 Mexico/General] PHP Fatal error:  Call to undefined method Seani::FirstDatosPers() in /home/uttlaxca/public_html/seani/insert/registro.php on line 23
+[24-Jun-2014 21:55:23 Mexico/General] PHP Fatal error:  Call to a member function FirstDatosPers() on a non-object in /home/uttlaxca/public_html/seani/mvc/modelo.php on line 65
